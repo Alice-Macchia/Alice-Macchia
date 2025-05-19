@@ -1,5 +1,6 @@
 👋 Ciao a tutti!
-Mi chiamo Alice e sono una Junior Data Engineer attualmente residente a Cagliari, Italia.:sun_with_face:
+
+Mi chiamo Alice e sono una Junior Data Engineer attualmente residente a Cagliari, Italia. :sun_with_face:
 
 Sono appassionata di informatica :computer: e fotografia :camera:, e al momento sto approfondendo le mie competenze in Power BI, SQL e Python.
 
