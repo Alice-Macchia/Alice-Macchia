@@ -1,11 +1,8 @@
+c[(url)
 <div align="center">
-  <img src="github-banner.svg" width="100%" alt="Alice Macchia - Data Engineer Banner">
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Alice-Macchia&label=Profile%20Viewers&color=007ACC&style=for-the-badge" alt="Profile Visitors" />]
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alice-Macchia&label=Profile%20Viewers&color=007ACC&style=for-the-badge" alt="Profile Visitors" />
-
-#👋 Ciao a tutti!
+# 👋 Ciao a tutti!
 
 Mi chiamo Alice e sono una *Junior Data Engineer* attualmente residente a Cagliari, Italia. :sun_with_face:
 
